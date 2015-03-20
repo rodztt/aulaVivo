@@ -7,8 +7,7 @@ while v:
         notas.append(nota)
         y=len(notas)
         x+=nota
-        print(y)
-        print x
     else:
         print ('Sua media e: %f')%(x/y)
         break
+
