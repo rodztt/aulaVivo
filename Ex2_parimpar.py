@@ -4,3 +4,6 @@ if (a%2)==0:
     print 'O numero e par'
 else:
     print 'O numero e impar'
+
+# Nota: 1.0
+# Comentario: Bom output ao usuario

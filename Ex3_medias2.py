@@ -11,3 +11,5 @@ while v:
         print ('Sua media e: %f')%(x/y)
         break
 
+# Nota: 1.0
+# Comentario: *
