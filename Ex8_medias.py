@@ -12,7 +12,7 @@ while x>=0:
             nota=float(raw_input('Digite a nota: \n'))
             break
         except:
-            print "voce nao digitou um numero valido"
+            print "voce nao digitou um numero valido, digite somente numeros \n"
     if nota>0:
         notas.append(nota)
         y=len(notas)
